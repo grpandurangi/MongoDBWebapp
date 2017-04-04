@@ -16,7 +16,7 @@
 
 set -xe
 
-mvn clean appengine:update \
+mvn clean mongodbwebapp:update \
   -Dappengine.additionalParams="--service_account_json_key_file=${GOOGLE_APPLICATION_CREDENTIALS}" \
   -Dappengine.appId="${GOOGLE_PROJECT_ID}" \
   -Dappengine.version="${GOOGLE_VERSION_ID}" \
