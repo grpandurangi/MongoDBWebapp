@@ -17,7 +17,7 @@ table,th,td {
 <body>
 <center class="elegant-aero">
 	<H1>People Manage Systems!!!!</H1>
-	<H2>Welcome to Company's People Management System!!!!</H1>
+	<H2>Welcome to Company People Management System!!!!</H1>
 	<hr/>
 	<a href="addPersonPage.do">Add Person</a><br/>
 	<a href="viewPersonPage.do">View Persons</a><br/>
