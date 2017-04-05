@@ -1,0 +1,8 @@
+com/journaldev/mongodb/model/Person.class
+com/journaldev/mongodb/dao/MongoDBPersonDAO.class
+com/journaldev/app/constant/AppConstants.class
+com/journaldev/mongodb/dao/DAOException.class
+com/journaldev/mongodb/listener/MongoDBContextListener.class
+com/journaldev/mongodb/model/Person$OPERATION.class
+com/journaldev/mongodb/converter/PersonConverter.class
+com/journaldev/app/servlets/FrontController.class
